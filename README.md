@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFoZzk1NG0zdjJ6MmFwbXBoZWFjNGpyNTNlbDVlcm9zN3ZmcDNubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7LtH9LX6YlWx68/giphy.gif" alt="Welcome GIF" width="500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWI5cDMzZzhxbmUwcXI5aDZ5YXJqdGs3MHR3dzZrMXh2dmx5cHJhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J62HBg2OPDoM81Wcnt/giphy.gif" alt="Welcome GIF" width="500"/>
 </p>
 
 # 👩‍💻 Essamadi Yousra  
