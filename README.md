@@ -62,9 +62,22 @@ Je maîtrise le **front-end** (HTML, CSS, JavaScript, React) et le **back-end** 
 
 ## 📫 Me contacter  
 
-- ✉️ Email : [essamadiyousra19@gmail.com](mailto:essamadiyousra19@gmail.com)  
-- 💼 LinkedIn : [linkedin.com/in/yousra-essamadi](https://www.linkedin.com/in/yousra-essamadi/)  
-- 💻 GitHub : [github.com/YousraEs](https://github.com/YousraEs)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yousra-essamadi/" target="_blank" style="text-decoration:none;">
+    <img alt="LinkedIn" height="32"
+      src="https://img.shields.io/badge/LinkedIn-Yousra%20Essamadi-?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2">
+  </a>
+  &nbsp;
+  <a href="https://github.com/YousraEs" target="_blank" style="text-decoration:none;">
+    <img alt="GitHub" height="32"
+      src="https://img.shields.io/badge/GitHub-YousraEs-?style=flat&logo=github&logoColor=white&labelColor=181717&color=181717">
+  </a>
+  &nbsp;
+  <a href="mailto:essamadiyousra19@gmail.com" style="text-decoration:none;">
+    <img alt="Email" height="32"
+      src="https://img.shields.io/badge/Email-essamadiyousra19%40gmail.com-?style=flat&logo=gmail&logoColor=white&labelColor=f4acb7&color=9d8189">
+  </a>
+</p>
 
 ---
 
