@@ -63,19 +63,16 @@ Je maîtrise le **front-end** (HTML, CSS, JavaScript, React) et le **back-end** 
 ## 📫 Me contacter  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yousra-essamadi/" target="_blank" style="text-decoration:none;">
-    <img alt="LinkedIn" height="32"
-      src="https://img.shields.io/badge/LinkedIn-Yousra%20Essamadi-?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2">
+  <a href="https://www.linkedin.com/in/yousra-essamadi/" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="30" alt="LinkedIn" style="filter: invert(41%) sepia(78%) saturate(1843%) hue-rotate(187deg) brightness(93%) contrast(94%); background:#f4acb7; padding:10px; border-radius:50%; box-shadow:0 6px 16px rgba(0,0,0,.12);">
   </a>
-  &nbsp;
-  <a href="https://github.com/YousraEs" target="_blank" style="text-decoration:none;">
-    <img alt="GitHub" height="32"
-      src="https://img.shields.io/badge/GitHub-YousraEs-?style=flat&logo=github&logoColor=white&labelColor=181717&color=181717">
+  &nbsp;&nbsp;
+  <a href="https://github.com/YousraEs" target="_blank" title="GitHub">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30" alt="GitHub" style="background:#9d8189; padding:10px; border-radius:50%; box-shadow:0 6px 16px rgba(0,0,0,.12);">
   </a>
-  &nbsp;
-  <a href="mailto:essamadiyousra19@gmail.com" style="text-decoration:none;">
-    <img alt="Email" height="32"
-      src="https://img.shields.io/badge/Email-essamadiyousra19%40gmail.com-?style=flat&logo=gmail&logoColor=white&labelColor=f4acb7&color=9d8189">
+  &nbsp;&nbsp;
+  <a href="mailto:essamadiyousra19@gmail.com" title="Email">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="30" alt="Email" style="background:#f4acb7; padding:10px; border-radius:50%; box-shadow:0 6px 16px rgba(0,0,0,.12);">
   </a>
 </p>
 
