@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZpYnFpcHh2anh5OG5odXp3b2w0NmdiZDNxY3kzczk5ZjdtdWR6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MuCF8yZPwSasj4SJJv/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTF5eGZhZXdneXBjNWQ0a292NnR6d25maGxhaW5pa25jcDd1cjhkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFoZzk1NG0zdjJ6MmFwbXBoZWFjNGpyNTNlbDVlcm9zN3ZmcDNubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7LtH9LX6YlWx68/giphy.gif)" alt="Hello GIF" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFoZzk1NG0zdjJ6MmFwbXBoZWFjNGpyNTNlbDVlcm9zN3ZmcDNubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohs7LtH9LX6YlWx68/giphy.gif" alt="Welcome GIF" width="500"/>
 </p>
 
 # 👩‍💻 Essamadi Yousra  
@@ -15,7 +15,7 @@ Je maîtrise le **front-end** (HTML, CSS, JavaScript, React) et le **back-end** 
 
 ---
 
-## 🛠️ Compétences techniques
+## 🛠️ Compétences techniques  
 
 ### 🔹 Langages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@ Je maîtrise le **front-end** (HTML, CSS, JavaScript, React) et le **back-end** 
 
 ---
 
-## 📚 Projets
+## 📚 Projets  
 
 - 🎓 **Application Web de Gestion Scolaire** (React + Laravel)  
   _Gestion des inscriptions, enseignants et cours avec interface responsive._  
@@ -53,12 +53,14 @@ Je maîtrise le **front-end** (HTML, CSS, JavaScript, React) et le **back-end** 
 
 ## 📊 Statistiques GitHub  
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=YousraEs&show_icons=true&theme=radical)  
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=YousraEs&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YousraEs&show_icons=true&theme=radical" alt="Stats GitHub" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YousraEs&layout=compact&theme=radical" alt="Langages" height="160"/>
+</p>
 
 ---
 
-## 📫 Me contacter
+## 📫 Me contacter  
 
 - ✉️ Email : [essamadiyousra19@gmail.com](mailto:essamadiyousra19@gmail.com)  
 - 💼 LinkedIn : [linkedin.com/in/yousra-essamadi](https://www.linkedin.com/in/yousra-essamadi/)  
@@ -66,4 +68,4 @@ Je maîtrise le **front-end** (HTML, CSS, JavaScript, React) et le **back-end** 
 
 ---
 
-⭐ N’hésitez pas à visiter mes projets et à collaborer avec moi !
+⭐ Merci de visiter mon profil ! Toujours ouverte aux collaborations et nouvelles opportunités 🚀
